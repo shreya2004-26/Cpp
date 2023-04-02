@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@1,700&display=swap');
+*{
+    margin: 0;
+    padding: o;
+}
+.sidebar{
+    background-color:red;
+    width: 20vw;
+    font-family: 'Open Sans', sans-serif;
+}
+.main{
+    background-color: yellow;
+    width:80vw;
+}
+.container{
+      display:flex;
+}
